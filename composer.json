@@ -1,0 +1,12 @@
+{
+    "name": "rafa/tfg_daw",
+    "authors": [
+        {
+            "name": "Rafael Ruiz",
+            "email": "rafaelruiz444@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
